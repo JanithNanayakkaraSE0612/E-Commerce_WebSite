@@ -3,7 +3,7 @@
     padding: 0%;
 }
 body{
-    background-color: rgb(236, 236, 236);
+    background-color:white;
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
 }
@@ -98,6 +98,7 @@ ul a:hover{
     
 }
 .main img{
+    width: 420px;
     margin-right: -111px;
     
 }
